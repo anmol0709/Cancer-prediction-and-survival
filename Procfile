@@ -1,1 +1,2 @@
-web: gunicorn webcancer.py
+web: gunicorn webcancer:app
+
