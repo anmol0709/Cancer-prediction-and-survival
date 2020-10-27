@@ -2,7 +2,7 @@ cmake==3.17.3
 command-not-found==0.3
 comtypes==1.1.7
 conda==4.3.16
-cryptography==2.8
+cryptography==3.2
 cupshelpers==1.0
 cycler==0.10.0
 Cython==0.29.19
