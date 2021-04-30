@@ -95,7 +95,7 @@ reportlab==3.5.34
 requests==2.22.0
 requests-oauthlib==1.3.0
 requests-unixsocket==0.2.0
-rsa==4.0
+rsa==4.7
 ruamel.yaml==0.16.10
 ruamel.yaml.clib==0.2.0
 scikit-image==0.17.2
